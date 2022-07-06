@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Doreen and here is a little about me:
+👋 Hi, I’m Doreen and here is a little about me:
+
 - 📚 Master of Science in Electrical/Computer Engineering graduate from Concordia University, Montréal.
 - 💟 Interests are in machine learning and data science, blockchain, cloud computing.
 - 🛠 Skilled in using Python and SQL tools for data cleaning and analytics, feature engineering, modelling, machine learning, etc.
